@@ -1,4 +1,6 @@
 # Wallet & Post-Deployment Course
+![image](https://github.com/ThomasHeim11/evm-wallet-and-post-deployment/assets/106417552/a32b3aa6-688e-4ed7-90dc-508043354fc1)
+
 
 Welcome to the repository for the Wallet & Post-Deployment Security Course by Cyfrin Updraft!
 
